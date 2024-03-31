@@ -1,6 +1,6 @@
 package org.example.homework4;
 
-public class Task1 {
+public class Task1.1 {
     public static boolean isLeapYear(int year) {
         if (year < 1 || year > 9999) {
             return false;
