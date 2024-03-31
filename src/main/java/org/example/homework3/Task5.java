@@ -12,7 +12,7 @@ public class Task5 {
         // Convert Celsius to Kelvin
         double kelvin = celsiusToKelvin(celsius);
 
-        // Print results
+        // Print resultswrg
         System.out.println("Celsius: " + celsius + " °C");
         System.out.println("Fahrenheit: " + fahrenheit + " °F");
         System.out.println("Kelvin: " + kelvin + " K");
