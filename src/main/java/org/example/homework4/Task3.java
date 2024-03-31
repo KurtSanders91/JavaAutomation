@@ -1,6 +1,6 @@
 package org.example.homework4;
 
-public class Task3 {
+public class Task3.1 {
     public static double calculateTotalCost(double unitPrice, int quantity) {
         double totalCost = unitPrice * quantity;
 
