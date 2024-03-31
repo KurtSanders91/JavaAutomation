@@ -1,6 +1,6 @@
 package org.example.homework4;
 
-public class Task2 {
+public class Task2.1 {
           public static void printYearsAndDays(long minutes) {
             if (minutes < 0) {
                 System.out.println("Invalid Value");
